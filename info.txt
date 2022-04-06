@@ -1,0 +1,1 @@
+npx cypress run --record --key 0e939090-fb56-4945-8e34-54a848eb37bb
